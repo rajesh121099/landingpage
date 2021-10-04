@@ -1,0 +1,69 @@
+.link{
+    text-decoration: none;
+    color: black;
+}
+.link1{
+    text-decoration: none;
+    color: rgb(161, 160, 160);
+}
+
+.btn-1{
+    border-color: coral;
+    color: coral;
+    background-color: white;
+    width: 20%;
+}
+
+.btn-2{
+    background-color: coral;
+    color: white;
+    width: 20%;
+}
+
+.btn-3{
+    background-color: coral;
+    color: white;
+    width: 40%;
+}
+
+p{
+    color: rgb(161, 160, 160);
+}
+
+.bbbb{
+    margin: 3%;
+    position: relative;
+}
+.first-txt {
+    position: absolute;
+    bottom: -2px;
+      
+    width: 40% 
+    
+}
+
+.first-txt1{
+    position: absolute;
+bottom: -2px;
+right: -2px;
+width: 40%;
+}
+.qqq{
+    margin: 3%;
+    position: relative;
+}
+
+.aaa{
+    margin: 3%;
+    position: relative;
+}
+
+ .footer{
+     background-color: rgb(245, 240, 240);
+ }
+ 
+ 
+ 
+ .center{
+     text-align: center;
+ }
